@@ -18,5 +18,5 @@ Overview highlighting my key skills and technologies:
 | Scripting & Automation|                                 |                 |                  | ARP                    |
 | Active Directory      |                                 |                 |                  | SNMP                   |
 | SDN                   |                                 |                 |                  | ICMP                   |
-|                       |                                 |                 |                  | Microsoft RDP          |
+| Cisco Packet Tracer   |                                 |                 |                  | Microsoft RDP          |
 |                       |                                 |                 |                  | NAT                    |
